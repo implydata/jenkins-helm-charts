@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jenkins:
+  - annotations:
+    apiVersion: v1
+    appVersion: lts
+    created: "2020-11-21T07:52:41.564550242Z"
+    description: Open source continuous integration server. It supports multiple SCM
+      tools including CVS, Subversion and Git. It can execute Apache Ant and Apache
+      Maven-based projects as well as arbitrary scripts.
+    name: jenkins
+    urls:
+    - https://github.com/implydata/jenkins-helm-charts/archive/refs/tags/imply-2.18.2.tar.gz
+    version: 2.18.2
